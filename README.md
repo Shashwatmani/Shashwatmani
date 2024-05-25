@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashwat Mani Tripathi</h1>
 <h3 align="center">A Frontend Developer and UI/UX Designer.</h3>
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatmani&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatmani" /> </p>
 
