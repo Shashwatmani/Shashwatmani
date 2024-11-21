@@ -8,7 +8,7 @@
 
 - I’m currently learning **JavaScript**
 
-- 💬 Ask me about ** html , css , Javascript, PresentationSkills , ManagingSkills.**
+- 💬 Ask me about ** html , css , Javascript , Python, PresentationSkills , ManagingSkills.**
 
 - 📫 How to reach me **shashwatmt2002@gmail.com**
 
